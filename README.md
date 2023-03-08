@@ -8,6 +8,6 @@ Lab 2 : Local search\
 Lab 3 : Simulated annealing\
 Lab 4 and 5 : Tabu search\
 Lab 6 : Population solution basedmetaheuristics\
-Lab 7 : Ant colony\
+Lab 7 : Ant colony
 
 All of them were made in python
